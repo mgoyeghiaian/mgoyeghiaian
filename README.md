@@ -112,6 +112,18 @@ QA Testing · Blackbox Testing
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mgoyeghiaian&bg_color=0D0E18&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true)
 
+## 3D Contribution Calendar
+
+![3D contribution calendar](./profile-3d-contrib/profile-night-view.svg)
+
+## Pac-Man Contribution Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./dist/pacman-contribution-graph.svg"/>
+  <img alt="Pac-Man contribution animation" src="./dist/pacman-contribution-graph.svg"/>
+</picture>
+
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=mgoyeghiaian&color=aa8833&style=flat-square)
