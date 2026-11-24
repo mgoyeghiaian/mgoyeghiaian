@@ -1,13 +1,20 @@
 <div align="center">
 
-<img width="100%" alt="Mgo Yeghiaian" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0E18,50:191642,100:0D0E18&height=220&section=header&text=MGO%20YEGHIAIAN&fontSize=46&fontColor=D4AF37&fontAlignY=38&desc=FULL-STACK%20WEB%20DEVELOPER&descSize=17&descAlignY=60"/>
+<a href="https://www.mgoyeghiaian.com/"><img src="https://www.mgoyeghiaian.com/assets/Logo_Only-D1woQZ68.png" width="130" alt="MGO logo"/></a>
+
+# MGO YEGHIAIAN
+
+**FULL-STACK WEB DEVELOPER**
 
 [![Introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1500&color=D4AF37&center=true&vCenter=true&width=650&lines=I+build+digital+identity+through+code.;Web+%7C+Mobile+%7C+Desktop;Performance+%7C+Security+%7C+Scalability)](https://www.mgoyeghiaian.com/)
 
 **28+ Projects Worldwide**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=10121E)](https://www.mgoyeghiaian.com/)
-[![Contact](https://img.shields.io/badge/CONTACT-10121E?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:info@mgoyeghiaian.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=10121E)](https://www.mgoyeghiaian.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=10121E)](https://www.linkedin.com/in/mgo-yeghiaian/)
+[![Facebook](https://img.shields.io/badge/Facebook-D4AF37?style=for-the-badge&logo=facebook&logoColor=10121E)](https://www.facebook.com/MGO.96/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-D4AF37?style=for-the-badge&logo=whatsapp&logoColor=10121E)](https://wa.me/96181445347)
+[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=10121E)](mailto:info@mgoyeghiaian.com)
 
 </div>
 
@@ -104,7 +111,11 @@ QA Testing · Blackbox Testing
 
 </div>
 
-## GitHub Achievements
+## [Official GitHub Achievements](https://github.com/mgoyeghiaian?tab=achievements)
+
+[![View official achievements](https://img.shields.io/badge/View%20Achievements-D4AF37?style=for-the-badge&logo=github&logoColor=10121E)](https://github.com/mgoyeghiaian?tab=achievements)
+
+## Community Trophy Statistics
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mgoyeghiaian&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)
 
