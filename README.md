@@ -111,13 +111,11 @@ QA Testing · Blackbox Testing
 
 </div>
 
-## [Official GitHub Achievements](https://github.com/mgoyeghiaian?tab=achievements)
+## GitHub Achievements
 
-[![View official achievements](https://img.shields.io/badge/View%20Achievements-D4AF37?style=for-the-badge&logo=github&logoColor=10121E)](https://github.com/mgoyeghiaian?tab=achievements)
+[![Official GitHub Achievements](https://img.shields.io/badge/GitHub-Official%20Achievements-D4AF37?style=for-the-badge&logo=github&logoColor=white&labelColor=10121E)](https://github.com/mgoyeghiaian?tab=achievements)
 
-## Community Trophy Statistics
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mgoyeghiaian&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)
+Explore my earned badges and milestones on GitHub.
 
 ## Contribution Activity
 
